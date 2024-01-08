@@ -8,6 +8,7 @@
 <br>
 A Full-stack blog app with Next.js, utilizing MongoDB, Mongoose, and NextAuth for Admin and Client authorization
 <br><br>
+<br><br>
 <b>- [Movie CRUD application]</b> (https://github.com/iEdiz/Movie-RouterAPP)
 <br>
 A CRUD app that displays different movies, utilizes React Router, React Query, and JSON server.
