@@ -9,9 +9,9 @@
 A Full-stack blog app with Next.js, utilizing MongoDB, Mongoose, and NextAuth for Admin and Client authorization
 <br><br>
 <br><br>
-<b>- [Movie CRUD application]</b> (https://github.com/iEdiz/Movie-RouterAPP)
+<b>- [Fullstack Digital Marketplace]</b> (https://github.com/iEdiz/digital-marketplace-nextjs)
 <br>
-A CRUD app that displays different movies, utilizes React Router, React Query, and JSON server.
+A fully functional digital marketplace, using next.js, admin ui libraries like shadcn-ui, zod validation, checkout, email validation.
 
 <img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/hTerhUjM93SKAG2LcU/200.gif" />
 
