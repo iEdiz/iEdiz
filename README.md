@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Edijs Mezits 👋</h1>
-<h3 align="center">A passionate and hard-working 21 year old programmer from Latvia</h3>
+<h3 align="center">A passionate and hard-working 23 year old programmer from Latvia</h3>
 
 
 
